@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APPITasks", "APPITasks.csproj", "{C497A3CF-7E21-4EA1-BD16-250862E36A66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C497A3CF-7E21-4EA1-BD16-250862E36A66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C497A3CF-7E21-4EA1-BD16-250862E36A66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C497A3CF-7E21-4EA1-BD16-250862E36A66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C497A3CF-7E21-4EA1-BD16-250862E36A66}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E8D35CD-4B15-48AB-8142-B5566EA64805}
+	EndGlobalSection
+EndGlobal
